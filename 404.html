@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta http-equiv="refresh" content="0; URL=./index.html">
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Redirige toutes les pages vers index.html pour React Router
+      const redirectTo = "/" + location.pathname.replace(/^\/[^\/]+/, "");
+      window.location.replace(redirectTo);
+    </script>
   </head>
-  <body>
-  </body>
+  <body></body>
 </html>
