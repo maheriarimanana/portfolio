@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7d72cf6d.css",
-    "main.js": "/portfolio/static/js/main.64ba118e.js",
+    "main.js": "/portfolio/static/js/main.f85f70cb.js",
     "static/js/453.2860e00f.chunk.js": "/portfolio/static/js/453.2860e00f.chunk.js",
     "static/media/autévia.png": "/portfolio/static/media/autévia.99af0e91764247b319a0.png",
     "static/media/vieron.jpg": "/portfolio/static/media/vieron.f9e2251a75c4b63d7008.jpg",
     "static/media/profil.png": "/portfolio/static/media/profil.6ec07438fb20eb5ff6fc.png",
     "index.html": "/portfolio/index.html",
     "main.7d72cf6d.css.map": "/portfolio/static/css/main.7d72cf6d.css.map",
-    "main.64ba118e.js.map": "/portfolio/static/js/main.64ba118e.js.map",
+    "main.f85f70cb.js.map": "/portfolio/static/js/main.f85f70cb.js.map",
     "453.2860e00f.chunk.js.map": "/portfolio/static/js/453.2860e00f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d72cf6d.css",
-    "static/js/main.64ba118e.js"
+    "static/js/main.f85f70cb.js"
   ]
 }
